@@ -3,9 +3,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=C9A0B4&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%8C%99+I'm+10sison;Building+things+one+line+at+a+time.;Always+learning%2C+always+creating." alt="Typing SVG" />
 
-# 🌑 10sison
+# 10sison
 
-*developer. creator. night owl.*
+*developer and creator.*
 
 </div>
 
@@ -60,7 +60,7 @@
 ---
 
 <!-- Contribution Graph -->
-## 🌿 contribution graph
+## contribution graph
 
 <div align="center">
 
